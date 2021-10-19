@@ -21,6 +21,7 @@ public class ScoreCollectorScript : MonoBehaviour
         {
             GameManager.Score++;
             print("hit");
+            
         }
 
     }
